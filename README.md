@@ -5,7 +5,7 @@
 
 ইন্সটল প্রসেস : 
 
-git clone https://github.com/AHAD-VAU-KING/AHAD-SERVER-COPY
+git clone https://github.com/Mr-Zerodegree/Naagad
 
 ls
 
